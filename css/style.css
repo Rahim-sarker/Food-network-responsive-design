@@ -1,0 +1,27 @@
+.header-img img{
+    height: 500px;
+    width: 400px;
+}
+h1{
+    font-size: 60px;
+   
+}
+.order-btn{
+    color: white;
+    padding: 15px 40px;
+}
+.about-me-bg{
+   background: url(../images/Frame\ 57.jpg);
+   background-repeat: no-repeat;
+   height: auto;
+}
+.my-recepies-p-tag{
+    width: 600px;
+}
+.card-width{
+    width: 350px;
+}
+
+footer{
+    background: black;
+}
